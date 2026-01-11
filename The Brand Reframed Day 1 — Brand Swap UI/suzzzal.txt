@@ -1,0 +1,11 @@
+link - https://www.figma.com/design/2GEA5ifecIO0RgxY57bFu2/Untitled?node-id=0-1&t=fC8JoaRQyjLIf3JO-1
+
+Swiggy → Zomato
+(Swiggy app redesigned with Zomato’s UI style)
+
+I changed the Swiggy app and made it look like the Zomato app.
+Now the app has bright red colors, so it looks fun and easy to notice.
+The first screen and login page are very simple, so people don’t get confused.
+The buttons are big and clear, so it’s easy to tap and use.
+When you open the home screen, the food pictures look yummy and neat, just like Zomato.
+It still feels like Swiggy, but now it looks like Zomato is wearing Swiggy’s clothes :)
